@@ -37,4 +37,5 @@ gen/
 gen-annotation-processor/
 gradle-app.setting
 local.properties
+keystore.properties
 /captures
