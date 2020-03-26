@@ -1,0 +1,40 @@
+# Ignore OS generated files and coommons #
+##########################################
+.DS_Store*
+ehthumbs.db
+Icon?
+Thumbs.db
+*.tmp
+*.log
+*.swp
+tmp
+null
+*~
+
+
+# GIT specific #
+################
+!.gitkeep
+
+
+# Ignore IDE and build tools #
+##############################
+.idea
+*.iml
+.gradle
+.settings
+.classpath
+.project
+
+
+# Project specific ignores #
+############################
+build/
+target/
+out/
+bin/
+gen/
+gen-annotation-processor/
+gradle-app.setting
+local.properties
+/captures
