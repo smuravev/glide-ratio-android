@@ -1,3 +1,8 @@
+//
+//  Created by Sergey Muravev on 26.03.2020.
+//  Copyright © 2020 Sergey Muravev. All rights reserved.
+//
+
 package me.smuravev.glideratio.controllers;
 
 import android.app.AlertDialog;
