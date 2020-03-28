@@ -38,4 +38,5 @@ gen-annotation-processor/
 gradle-app.setting
 local.properties
 keystore.properties
+*.pepk
 /captures
