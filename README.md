@@ -1,5 +1,7 @@
 # GlideRatio (Android) project
 
+[GlideRatio (Android) on GooglePlay](https://play.google.com/store/apps/details?id=me.smuravev.glideratio)
+
 First, many thanks to my Bulgarian friends: Andrey Manolov and Emil Gyorev.  
 For the great idea to create this application. If it was not for your help and encouragement,  
 this project would not have been successful.
