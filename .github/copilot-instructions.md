@@ -44,5 +44,5 @@
 - Cross-module optimization enabled in release builds.
 
 ## Communication
-- Use Russian language only when '@ru' tag exists in prompts.
+- Use Russian language only when '__ru' tag exists in prompts.
 - Structure responses in Markdown format.
